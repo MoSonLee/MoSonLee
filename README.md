@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malrang-malrang&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malrang-malrang&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a> </br>
  
 ## Skills & Tools
 <div align="left">
@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoSonLee&show_icons=true)
 
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSonLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
